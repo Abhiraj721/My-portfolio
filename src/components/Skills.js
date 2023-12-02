@@ -19,7 +19,7 @@ export default function Skills() {
         <Leetcard/>
         <center>
           <br />
-       <h5 className="resume"> <a target="blank" href="https://drive.google.com/file/d/1eV56-h7f5Ix5T--aiWcYGUX8sTbKogqV/view?usp=drive_link">Download My Resume</a></h5>
+       <h5 className="resume"> <a target="blank" href="https://drive.google.com/file/d/1eV56-h7f5Ix5T--aiWcYGUX8sTbKogqV/view?usp=sharing">Download My Resume</a></h5>
        <br />
         </center>
       </section>
